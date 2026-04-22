@@ -77,13 +77,3 @@ If you run `npm run seed` in the backend, you can log in using these generated t
 
 ## ☁️ Deployment
 The backend API is perfectly structured for immediate deployment on platforms like Render or Railway. The frontend Static SPA architecture builds via `npm run build` natively targeting Render, Vercel, or Netlify, relying transparently on the base `import.meta.env.VITE_API_URL` variable.
-
-## 📂 Documentation
-
-- [Software Requirements Specification (SRS)](./CH-DOC-001-SRS%20(1).pdf)
-- [Project Plan](./CH-DOC-002-ProjectPlan%20(2).pdf)
-- [System Design](./CH-DOC-003-SystemDesign.pdf)
-- [Tech Stack](./CH-DOC-004-TechStack.pdf)
-- [Data Flow Diagram (DFD)](./CH-DOC-005-DFD%20(1).pdf)
-- [Test Plan & Deployment](./CH-DOC-006-TestPlan-Deployment%20(1).pdf)
-- [Campus Hire Presentation](./Campus-Hire-Presentation%20(2).pptx)
